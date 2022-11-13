@@ -144,6 +144,6 @@ Tab:Button{
 	Name = "Teleport to your boat",
 	Description = "Only works with my boat",
 	Callback = function() 
-        	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Boats.BlueHover.Seats.VehicleSeat
+        	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Boats.BlueHover.Seats.VehicleSeat.CFrame
 	end
 }
