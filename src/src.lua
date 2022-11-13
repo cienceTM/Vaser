@@ -127,13 +127,15 @@ Tab:Button{
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
         wait(0.1)
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
-	      wait(0.1)
-	      game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
         wait(0.1)
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
         wait(0.1)
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
         wait(0.1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
+	wait(0.1)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
+	wait(0.1)
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Vases.Model.Vase.CFrame
     end
 }
