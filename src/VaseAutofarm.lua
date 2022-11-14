@@ -3,7 +3,7 @@ made by cience
 ]]--
 
 
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/cienceTM/Mercury-Modified/keybind-persistence-test/src.lua"))()
 
 local GUI = Mercury:Create{
     Name = "Vasing",
