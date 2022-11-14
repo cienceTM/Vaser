@@ -152,3 +152,11 @@ Tab:Button{
         	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Boats.BlueHover.Seats.VehicleSeat.CFrame
 	end
 }
+
+Tab:Button{
+	Name = "Teleport to lobby",
+	Description = nil,
+	Callback = function() 
+        	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(-148.2253875832422, 99.17416381835938, 0.9046381115913391))
+	end
+}
