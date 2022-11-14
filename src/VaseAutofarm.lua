@@ -140,9 +140,14 @@ Tab:Button{
     end
 }
 
+Tab:Textbox{
+	Name = "Enter Boat Name",
+	Callback = function(text) end
+}
+
 Tab:Button{
 	Name = "Teleport to your boat",
-	Description = "Only works with my boat",
+	Description = "Enter Boat name above (WIP)",
 	Callback = function() 
         	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Boats.BlueHover.Seats.VehicleSeat.CFrame
 	end
