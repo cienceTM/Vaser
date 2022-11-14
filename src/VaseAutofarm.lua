@@ -6,10 +6,10 @@ made by cience
 local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
 
 local GUI = Mercury:Create{
-    Name = "Mercury",
+    Name = "Vasing",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Aqua,
-    Link = "https://github.com/deeeity/mercury-lib"
+    Link = "https://raw.githubusercontent.com/cienceTM/VaseAutoFarm/main/src/VaseAutofarm.lua"
 }
 
 local Tab = GUI:Tab{
