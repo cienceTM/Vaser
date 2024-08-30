@@ -1,6 +1,8 @@
 Edit: August 30th, 2024
 
-Last I checked, this doesn't work; some functions might still be functional, but not the code you're looking to copy. The unobfuscated code is in VaserSource.lua.
+Last I checked, this doesn't work; some functions might still be functional, 
+but not the code you're looking to copy. 
+The unobfuscated code is in VaserSource.lua.
 
 Vaser is a Script for Roblox SharkBite 2
 
