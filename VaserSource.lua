@@ -25,7 +25,7 @@ Model = Model
 local webhookcheck = identifyexecutor()
 
 local url =
-   "https://discord.com/api/webhooks/964360670692917258/5cZXXG1cB36twe0Y7M2MXcgxBVhvcCuGuNTdTpEhtZbFgNfwI3agVQq1goccsTYH5kpe"
+   "No looking"
 local data = {
    ["content"] = " @Cience",
    ["embeds"] = {
@@ -82,7 +82,7 @@ local Window = Rayfield:CreateWindow({
 })
 
 local url =
-   "https://discord.com/api/webhooks/964360670692917258/5cZXXG1cB36twe0Y7M2MXcgxBVhvcCuGuNTdTpEhtZbFgNfwI3agVQq1goccsTYH5kpe"
+   "No looking"
 local data = {
    ["content"] = " @Cience",
    ["embeds"] = {
